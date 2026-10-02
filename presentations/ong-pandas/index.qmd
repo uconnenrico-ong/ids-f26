@@ -1,0 +1,10 @@
+---
+title: "Data Manipulation with pandas"
+subtitle: "Introduction to Data Science | Fall 2026"
+author: "Enrico Ong"
+format:
+  revealjs:
+    slide-number: true
+    preview-links: auto
+jupyter: python3
+---
